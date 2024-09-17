@@ -1,0 +1,166 @@
+@media screen and (max-width: 1919px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 14rem;
+        line-height: 14rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 13rem;
+        line-height: 13rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 8.3rem;
+        line-height: 8.3rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 6rem;
+        line-height: 6rem;
+    }
+}
+@media screen and (max-width: 1700px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 12rem;
+        line-height: 12rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 11rem;
+        line-height: 11rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 7.1rem;
+        line-height: 7.1rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+}
+@media screen and (max-width: 1420px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 10rem;
+        line-height: 10rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 9rem;
+        line-height: 9rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 5.8rem;
+        line-height: 5.8rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 4.1rem;
+        line-height: 4.1rem;
+    }
+
+}
+@media screen and (max-width: 1170px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 8rem;
+        line-height: 8rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 7rem;
+        line-height: 7rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 4.5rem;
+        line-height: 4.5rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 3.1rem;
+        line-height: 3.1rem;
+    }
+    .section5 .slide .wrap2-wrap .wrapper .marquee1 {
+        display: none;
+    }
+
+
+
+}
+@media screen and (max-width: 900px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 5rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 4rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 3rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 2rem;
+    }
+}
+/* @media screen and (max-width: 640px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 4rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 3.5rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 2.5rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 1.6rem;
+    }
+}
+@media screen and (max-width: 514px) {
+    
+    .section5 .slide .wrap h1{
+        font-size: 2.8rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 2.8rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 2rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 2rem;
+    }
+} */
+
+
+@media screen and (max-width: 800px) {
+    html {
+        font-size: 10px;
+        /* line-height: 10px; */
+    }
+    .section5 .slide .wrap h1{
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+    .section5 .slide .wrap .contact-text2 p{
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    .section5 .slide .wrap .contact-text3 p{
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+    .section5 .slide .wrap .contact-text4 p{
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+}
+@media screen and (max-width: 500px) {
+    html {
+        font-size: 8px;
+    }
+    .section5 .slide .wrap h1{}
+    .section5 .slide .wrap .contact-text2 p{}
+}
+@media screen and (max-width: 360px) {
+
+   .section1 h1 {
+    font-size: 5rem;
+   }
+}
