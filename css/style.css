@@ -168,12 +168,20 @@ header ul li {
     top: 10%; left: 50%; 
     transform: translate(-50%,0);
 }
-.section3 {}
-.section3 .slide{} 
-.section3 .slide .wrap{}
+.section3 .slide img {
+  
+  /* height: 10%; */
+  width: 73%
+  
+}
+.section3 .slide{
+  /* height: 70vh;
+  padding-bottom: 100px; */
+} 
+
 
 .section3 .slide .wrap {
-    width: 100%;
+    padding-left: 20%;
     /* background-color: #DAF064; */
 }
 
@@ -206,8 +214,9 @@ header ul li {
     position: relative;
 }
 .section2 .slide video{
-    width: 90vw;
-    /* height: 100vh; */
+    
+    height: 95vh;
+    width: 88vw;
     position: absolute;
     top: 10%;
     left: 5%;
@@ -441,7 +450,7 @@ span {
     width: 60vw;
     height: 100vh;
     position: absolute;
-    top: 100;
+    /* top: 100; */
 }
 
 .section5 .slide h3 {
@@ -504,7 +513,7 @@ span {
 }
 
 
-.portfolio{
+/* .portfolio{
   font-family: 'TAEBAEKfont', sans-serif;
   font-weight: 400;
   font-size: 15px;
@@ -514,15 +523,15 @@ span {
   margin: 0;
   padding: 0;
   overflow-x: none;
-}
-.portfolio p{
+} */
+/* .portfolio p{
   font-family: 'TAEBAEKfont', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
   color: #fff;
   margin: 0;
-}
+} */
 .section-fluid-main{
   position: relative;
   display: block;   
@@ -578,7 +587,7 @@ span {
 }
 .section-in img{
   display: block;
-  width: 100%;
+  width: 90%;
   height: auto;
   transition: transform 250ms linear;
 }
